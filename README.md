@@ -12,8 +12,7 @@ c + h freely! w2i, dont be shy ^_^
   「im very cuddly if u have c + h WATCH OUT omw 」
 
 ____________ 
-![image](https://github.com/user-attachments/assets/4eb71e04-c6b4-4afb-a11a-96b9405342b6) 
-
+ [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31kvho3avfpe2tggg2waxbg3aevu&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false)](https://github.com/kittinan/spotify-github-profile) 
 
 ⭑ im gonna uidlfqwfjasfhlr 
 
