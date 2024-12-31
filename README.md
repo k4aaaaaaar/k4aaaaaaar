@@ -12,12 +12,12 @@ c + h freely! w2i, dont be shy ^_^
   「im very cuddly if u have c + h WATCH OUT omw 」
 
 ____________ 
-![image](https://github.com/user-attachments/assets/4eb71e04-c6b4-4afb-a11a-96b9405342b6)
+![image](https://github.com/user-attachments/assets/4eb71e04-c6b4-4afb-a11a-96b9405342b6) 
 
 
 ⭑ im gonna uidlfqwfjasfhlr 
 
-- DNI : weirdos, pedophiles, basic dni criteria 
+- DNI : weirdos, pedophiles, homophobes, basic dni criteria
 <!---
 k4aaaaaaar/k4aaaaaaar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
