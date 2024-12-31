@@ -18,8 +18,6 @@ ____________
 ⭑ im gonna uidlfqwfjasfhlr 
 
 - DNI : weirdos, pedophiles, basic dni criteria 
--
--
 <!---
 k4aaaaaaar/k4aaaaaaar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
