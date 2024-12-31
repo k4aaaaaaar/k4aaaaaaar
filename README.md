@@ -11,12 +11,19 @@ c + h freely! w2i, dont be shy ^_^
    
   「im very cuddly if u have c + h WATCH OUT omw 」
 
+  - DNI : weirdos, pedophiles, homophobes, basic dni criteria
+
 ____________ 
- [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31kvho3avfpe2tggg2waxbg3aevu&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false)](https://github.com/kittinan/spotify-github-profile) 
+<p align="center">
+  <file src="[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31kvho3avfpe2tggg2waxbg3aevu&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false)](https://github.com/kittinan/spotify-github-profile)
+/>
+</p>
+
+
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31kvho3avfpe2tggg2waxbg3aevu&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false)](https://github.com/kittinan/spotify-github-profile)
 
 ⭑ im gonna uidlfqwfjasfhlr 
 
-- DNI : weirdos, pedophiles, homophobes, basic dni criteria
 <!---
 k4aaaaaaar/k4aaaaaaar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
