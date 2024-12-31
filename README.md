@@ -6,6 +6,8 @@
 c + h freely! w2i, dont be shy ^_^
 
    ╰┈➤. when i'm alone/not with friends, im usually afk 
+   
+  「im very cuddly if u have c+h WATCH OUT omw 」
 
 ____________ 
 ![image](https://github.com/user-attachments/assets/4eb71e04-c6b4-4afb-a11a-96b9405342b6)
