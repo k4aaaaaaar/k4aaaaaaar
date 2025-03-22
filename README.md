@@ -5,7 +5,7 @@
 
 - - - - - - - - - ISTP + Minor
 
-c + h freely! w2i, dont be shy ^_^
+c + h freely ! [major touch comfort] w2i, dont be shy ^_^
 
    ╰┈➤. when i'm alone/not with friends, im usually afk 
    
