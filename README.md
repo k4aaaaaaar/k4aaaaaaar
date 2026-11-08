@@ -20,8 +20,11 @@ ____________
 </p>
 
 
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31kvho3avfpe2tggg2waxbg3aevu&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false)](https://github.com/kittinan/spotify-github-profile)
-
+<p align="center">
+  <a href="https://github.com/kittinan/spotify-github-profile">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31kvho3avfpe2tggg2waxbg3aevu&cover_image=true&theme=natemoo-re&show_offline=false&background_color=121212&interchange=false&profanity=false&hide_remaster=false&bar_color=7c83bb&bar_color_cover=false">
+  </a>
+</p>
 　　　　　　　　　　　　　　　　　　　  　　　　　　“ LET IT ALL GO ！”
 
 <!---
