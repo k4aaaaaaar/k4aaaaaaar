@@ -1,31 +1,29 @@
 ![image](https://github.com/user-attachments/assets/bc8492da-69fa-4d6d-8427-994d0876dabf)
+
+
+<table>
+  <tr>
+    <td>
+      <img width="394" height="420" alt="2fe9c4ecb2adaaa60b4e33f2cc3f0fb8" src="https://github.com/user-attachments/assets/fdb84aa9-f934-4afa-860b-2c6e007400df" />
+    </td>
+
+   <td align="center" valign="top">
+   <p>
+<img width="325" height="200" alt="download (2)" src="https://github.com/user-attachments/assets/ce160543-9930-4f89-95d3-03e54fc162c7" />
+   </br>
+   ✎  ᴋᴀᴛʜ ♯ ᴀɴʏ ᴘʀɴꜱ </br>
+   ᴄ+ʜ ᴇɴᴄ , ᴡ2ɪ </br>
+   ᴇɴɢ / ᴇꜱᴘ
+   </p>
+   <a href="https://github.com/kittinan/spotify-github-profile">
+        <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31kvho3avfpe2tggg2waxbg3aevu&cover_image=true&theme=natemoo-re&show_offline=false&background_color=121212&interchange=false&profanity=false&hide_remaster=false&bar_color=7c83bb&bar_color_cover=false">
+      </a>
+    </td>
+  </tr>
+</table>
+
 ____________
 
-✎  Kath ♯ any prns ♯ nicknames r welcomed
-
-- - - - - - - - - ISTP + Minor
-
-c + h freely ! [major touch comfort] w2i, dont be shy ^_^
-
-   ╰┈➤ when i'm alone/not with friends, im usually afk ;; int plspls pull up
-   
-  「im very cuddly if u have c + h WATCH OUT omw 」
-
-  - DNI : weirdos, pedophiles, homophobes, basic dni criteria
-
-____________ 
-<p align="center">
-  <file src="[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31kvho3avfpe2tggg2waxbg3aevu&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false)](https://github.com/kittinan/spotify-github-profile)
-/>
-</p>
-
-
-<p align="center">
-  <a href="https://github.com/kittinan/spotify-github-profile">
-    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31kvho3avfpe2tggg2waxbg3aevu&cover_image=true&theme=natemoo-re&show_offline=false&background_color=121212&interchange=false&profanity=false&hide_remaster=false&bar_color=7c83bb&bar_color_cover=false">
-  </a>
-</p>
-　　　　　　　　　　　　　　　　　　　  　　　　　　“ LET IT ALL GO ！”
 
 <!---
 k4aaaaaaar/k4aaaaaaar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
