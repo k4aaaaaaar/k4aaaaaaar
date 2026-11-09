@@ -9,14 +9,14 @@
 
    <td align="center" valign="top">
    <p>
-<img width="325" height="200" alt="download (2)" src="https://github.com/user-attachments/assets/ce160543-9930-4f89-95d3-03e54fc162c7" />
+<img width="330" height="250" alt="download (2) (1)" src="https://github.com/user-attachments/assets/cfe23f59-43a6-4033-837e-ef2b47061d76" />
    </br>
    ✎  ᴋᴀᴛʜ ♯ ᴀɴʏ ᴘʀɴꜱ </br>
    ᴄ+ʜ ᴇɴᴄ , ᴡ2ɪ </br>
    ᴇɴɢ / ᴇꜱᴘ
    </p>
    <a href="https://github.com/kittinan/spotify-github-profile">
-        <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31kvho3avfpe2tggg2waxbg3aevu&cover_image=true&theme=natemoo-re&show_offline=false&background_color=121212&interchange=false&profanity=false&hide_remaster=false&bar_color=7c83bb&bar_color_cover=false">
+        <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31kvho3avfpe2tggg2waxbg3aevu&cover_image=true&theme=natemoo-re&show_offline=false&profanity=false&hide_remaster=false&bar_color=7c83bb&bar_color_cover=false">
       </a>
     </td>
   </tr>
