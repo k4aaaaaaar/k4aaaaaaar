@@ -1,28 +1,66 @@
+
 ![image](https://github.com/user-attachments/assets/bc8492da-69fa-4d6d-8427-994d0876dabf)
 
 
-<table>
-  <tr>
-    <td>
-      <img width="394" height="420" alt="2fe9c4ecb2adaaa60b4e33f2cc3f0fb8" src="https://github.com/user-attachments/assets/fdb84aa9-f934-4afa-860b-2c6e007400df" />
-    </td>
+____________
 
-   <td align="center" valign="top">
-   <p>
-<img width="330" height="250" alt="download (2) (1)" src="https://github.com/user-attachments/assets/cfe23f59-43a6-4033-837e-ef2b47061d76" />
-   </br>
-   ✎  ᴋᴀᴛʜ ♯ ᴀɴʏ ᴘʀɴꜱ </br>
+
+
+<div>
+  <img
+    align="left"
+    width="450"
+    height="420"
+    src="https://github.com/user-attachments/assets/0de35ae1-018d-434f-a93c-a0d2f820b397"
+    alt="goldfish"
+  />
+
+  <p align="center">
+    <img
+      width="370"
+      height="255"
+      src="https://github.com/user-attachments/assets/8f7846ab-be84-445b-8802-01e6fc3bda75"
+      alt="star"
+    />
+  </p>
+
+  <p align="center">
+    <span style="color: #8B9BB0;">
+    ✎  ᴋᴀᴛʜ ♯ ᴀɴʏ ᴘʀɴꜱ </br>
    ᴄ+ʜ ᴇɴᴄ , ᴡ2ɪ </br>
-   ᴇɴɢ / ᴇꜱᴘ
+꩜   ᴇɴɢ / ᴇꜱᴘ
+    </span>
    </p>
-   <a href="https://github.com/kittinan/spotify-github-profile">
-        <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31kvho3avfpe2tggg2waxbg3aevu&cover_image=true&theme=natemoo-re&show_offline=false&profanity=false&hide_remaster=false&bar_color=7c83bb&bar_color_cover=false">
-      </a>
-    </td>
-  </tr>
-</table>
+
+  <p align="center">
+    <a href="https://github.com/kittinan/spotify-github-profile">
+      <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31kvho3avfpe2tggg2waxbg3aevu&cover_image=true&theme=natemoo-re&show_offline=false&background_color=121212&interchange=false&profanity=false&hide_remaster=false&bar_color=7c83bb&bar_color_cover=false" />
+    </a>
+  </p>
+</div>
+
+<box border radius="lg" padding={3} gap={2}>
+  <row align=start gap={2}>
+    <box background="#20262e" radius="md" flex="1" height="180px" justify="center" align="center">
+      <text color="#8B9BB0" weight="medium">
+      <text color="#8B9BB0" size="xs">
+    </box>
+    <box flex="1" gap={2} align="center">
+      <box background="#20262e" radius="md" width="100%" height="48px" align="center" justify="center">
+        <text color="#8B9BB0" size="xs">
+      </box>
+      <box background="#20262e" radius="md" width="100%" height="65px" align="center" justify="center">
+        <text color="#8B9BB0" size="xs">
+      </box>
+    </box>
+  </row>
+  <caption textAlign="center">
+</box>
+    
+
 
 ____________
+
 
 
 <!---
