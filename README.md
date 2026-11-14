@@ -5,12 +5,10 @@
 ____________
 
 
-  <p align="center">
-    <span style="color: #8B9BB0;">
-    ✎  ᴋᴀᴛʜ ♯ ᴀɴʏ ᴘʀɴꜱ </br>
+  <p align="center">     
+   ✎  ᴋᴀᴛʜ ♯ ᴀɴʏ ᴘʀɴꜱ </br>
    ᴄ+ʜ ᴇɴᴄ , ᴡ2ɪ </br>
 ꩜   ᴇɴɢ / ᴇꜱᴘ
-    </span>
    </p>
 
   <p align="center">
@@ -18,8 +16,8 @@ ____________
       <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31kvho3avfpe2tggg2waxbg3aevu&cover_image=true&theme=natemoo-re&show_offline=false&background_color=121212&interchange=false&profanity=false&hide_remaster=false&bar_color=7c83bb&bar_color_cover=false" />
     </a>
   </p>
+</div>
 
-    
 
 
 ____________
